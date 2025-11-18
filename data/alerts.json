@@ -1,0 +1,39 @@
+{
+    "alerts": [
+        {
+            "time": "10:00",
+            "source": "Guest Phone",
+            "destination": "Admin PC",
+            "type": "Unauthorized Access",
+            "status": "Blocked"
+        },
+        {
+            "time": "10:05",
+            "source": "IoT Camera",
+            "destination": "User Laptop",
+            "type": "Cross-VLAN Attempt",
+            "status": "Blocked"
+        },
+        {
+            "time": "10:10",
+            "source": "Smart Bulb",
+            "destination": "Admin PC",
+            "type": "ARP Spoofing Attempt",
+            "status": "Suspicious"
+        },
+        {
+            "time": "10:20",
+            "source": "Guest Phone",
+            "destination": "Admin PC",
+            "type": "Unauthorized Access",
+            "status": "Blocked"
+        },
+        {
+            "time": "10:20",
+            "source": "Guest Phone",
+            "destination": "Admin PC",
+            "type": "Unauthorized Access",
+            "status": "Blocked"
+        }
+    ]
+}
